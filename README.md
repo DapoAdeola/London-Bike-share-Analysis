@@ -25,5 +25,12 @@ the dataset was from Kaggle
 https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 
 ## Data Processing
+- checked for duplicates
+- checked for missing values
+- Use the trim function to delete extra spaces
+- Separated the timestamp column into date and time columns
+- created conditional columns on the weather, is_holiday, season and is_weekend columns using information from the Metadata 
+- Renamed all columns appropriately
+- changed all data types to the prefared type for easy analysis
 
 
