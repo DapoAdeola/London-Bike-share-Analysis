@@ -38,5 +38,9 @@ https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 
 ## Analysis
 ### How does weather affect bike usage?
+plotting the total bike shares against weather type on a column chart
+The most bikes are shared when the weather is clear  followed by scattered and broken clouds 
+less bikes are shared during unfavourable weather conditions rain, thunderstorms or snowstorms
 
+![image](https://github.com/DapoAdeola/London-Bike-share-Analysis/assets/130672823/c0f5da5e-7b33-4ed0-93f3-714c16fc0ac0)
 
