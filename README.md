@@ -36,3 +36,7 @@ https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 - changed all data types to the prefared type for easy analysis
 
 
+## Analysis
+### How does weather affect bike usage?
+
+
