@@ -13,16 +13,18 @@ In summary, Santander Cycles has become an integral part of London's transportat
 
 ## Problem Statement
 To analyze the effectiveness of the Bike sharing system, the stakeholders are looking to answer questions such as
--How does weather affect bike usage?
--what season have the highest bike shares?
--What time of the day affects bike share?
--How do factors such as humidity, temperature and wind speed affect the bike share count?
--Are more bikes ridden during the holiday or non-holidays?
--Are more bikes ridden during the weekday or weekend?
+- How does weather affect bike usage?
+- what season have the highest bike shares?
+- What time of the day affects bike share?
+- How do factors such as humidity, temperature and wind speed affect the bike share count?
+- Are more bikes ridden during the holiday or non-holidays?
+- Are more bikes ridden during the weekday or weekend?
+
 
 ## Data Sources
 the dataset was from Kaggle
 https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
+
 
 ## Data Processing
 - checked for duplicates
