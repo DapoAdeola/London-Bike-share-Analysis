@@ -13,6 +13,7 @@ In summary, Santander Cycles has become an integral part of London's transportat
 
 ## Problem Statement
 To analyze the effectiveness of the Bike sharing system, the stakeholders are looking to answer questions such as
+- What is the total bike share for the period?
 - How does weather affect bike usage?
 - Which season have the highest bike shares?
 - How does bike share vary by time of day?
@@ -37,6 +38,9 @@ https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 
 
 ## Analysis
+### What is the total bike share for the period?
+a total of 19,905,972 ride shares for the dataset period of Jan 4th 2015 - Jan 3rd 2017
+
 ### How does weather affect bike usage?
 plotting the total bike shares against weather type on a column chart
 The most bikes are shared when the weather is clear  followed by scattered and broken clouds 
