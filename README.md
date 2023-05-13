@@ -11,6 +11,8 @@ The scheme contributes to reducing traffic congestion, promoting environmentally
 In summary, Santander Cycles has become an integral part of London's transportation landscape, offering a user-friendly and sustainable means of commuting and sightseeing throughout the city.
 
 
+## Problem Statement
+To analyze the effectiveness of the Bike sharing system, the stakeholders are looking to answer questions such as![image](https://github.com/DapoAdeola/London-Bike-share-Analysis/assets/130672823/8c003ce5-ac44-42f9-bf3f-e540dd8224aa)
 
 
 
