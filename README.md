@@ -14,8 +14,8 @@ In summary, Santander Cycles has become an integral part of London's transportat
 ## Problem Statement
 To analyze the effectiveness of the Bike sharing system, the stakeholders are looking to answer questions such as
 - How does weather affect bike usage?
-- what season have the highest bike shares?
-- What time of the day affects bike share?
+- Which season have the highest bike shares?
+- How does bike share vary by time of day?
 - How do factors such as humidity, temperature and wind speed affect the bike share count?
 - Are more bikes ridden during the holiday or non-holidays?
 - Are more bikes ridden during the weekday or weekend?
@@ -40,7 +40,46 @@ https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 ### How does weather affect bike usage?
 plotting the total bike shares against weather type on a column chart
 The most bikes are shared when the weather is clear  followed by scattered and broken clouds 
-less bikes are shared during unfavourable weather conditions rain, thunderstorms or snowstorms
+less bikes are shared during unfavourable weather conditions rain, thunderstorms or snowstorms.
 
-![image](https://github.com/DapoAdeola/London-Bike-share-Analysis/assets/130672823/c0f5da5e-7b33-4ed0-93f3-714c16fc0ac0)
+
+### Which season have the highest bike shares?
+Looking at the values on a donut chart
+summer season has the highest bike shares follwed closely in the fall the spring season and winter having the list bike shares
+
+
+### How does bike share vary by time of day?
+bike shares are more around 8.00 AM and 5.00 PM which are work rush hour times.
+People tend to share more bikes going to work and during close of work.
+
+
+### How do factors such as humidity, temperature and wind speed affect the bike share count?
+Humidity and temperature are inversely proportional. Therefore, when temperature reduces, humidity increases and thus the air becomes drier. 
+Less rides are taken during this period. Conversely, as the temperature increases the count of bike shares also increases.
+less bike shares occur when there is an incrase in wind speed.
+
+
+### Are more bikes ridden during the holiday or non-holidays?
+Non-holidays accounted for 98.52% of total bike share for the given period with a total of 9,610,474 rides. The count of Holiday rides was 295,498 which accounted for 1.48%. This is because holidays are usually periods of rest and most persons would have need to commute to work.
+
+
+### Are more bikes shared during the weekday or weekend?
+Rides on weekends account  for a quarter (4,857,756 rides) of the total rideshare.
+these shows that bikes are shared mostly for work activities.
+
+
+
+## Recommendation 
+- Given periods of peaks and decline, the bike can be docked and undocked for major refurbishments and care during winter months.
+- Rountine maintenance can be carried out during weekends or holiday periods.
+- More bikes can be made available for summer months which has the highest peak of ride shares.
+- The rush hour bike share traffic can be well managed by knowing the peak times during the day.
+- Better financial planning can be done around off seasons and period of bad weather conditions where low bike shares are recorded.
+
+
+
+
+
+
+
 
