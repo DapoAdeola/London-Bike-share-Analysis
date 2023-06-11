@@ -28,21 +28,21 @@ https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 
 
 ## Data Processing
-- checked for duplicates
-- checked for missing values
+- Checked for duplicates
+- Checked for missing values
 - Use the trim function to delete extra spaces
 - Separated the timestamp column into date and time columns
-- created conditional columns on the weather, is_holiday, season and is_weekend columns using information from the Metadata 
+- Created conditional columns on the weather, is_holiday, season and is_weekend columns using information from the Metadata 
 - Renamed all columns appropriately
-- changed all data types to the prefared type for easy analysis
+- Changed all data types to the prefared type for easy analysis
 
 
 ## Analysis
 ### What is the total bike share for the period?
-a total of 19,905,972 ride shares for the dataset period of Jan 4th 2015 - Jan 3rd 2017
+A total of 19,905,972 ride shares for the dataset period of Jan 4th 2015 - Jan 3rd 2017
 
 ### How does weather affect bike usage?
-plotting the total bike shares against weather type on a column chart
+Plotting the total bike shares against weather type on a column chart
 The most bikes are shared when the weather is clear  followed by scattered and broken clouds 
 less bikes are shared during unfavourable weather conditions rain, thunderstorms or snowstorms.
 
@@ -53,14 +53,14 @@ summer season has the highest bike shares follwed closely in the fall the spring
 
 
 ### How does bike share vary by time of day?
-bike shares are more around 8.00 AM and 5.00 PM which are work rush hour times.
+Bike shares are more around 8.00 AM and 5.00 PM which are work rush hour times.
 People tend to share more bikes going to work and during close of work.
 
 
 ### How do factors such as humidity, temperature and wind speed affect the bike share count?
 Humidity and temperature are inversely proportional. Therefore, when temperature reduces, humidity increases and thus the air becomes drier. 
 Less rides are taken during this period. Conversely, as the temperature increases the count of bike shares also increases.
-less bike shares occur when there is an incrase in wind speed.
+Less bike shares occur when there is an incrase in wind speed.
 
 
 ### Are more bikes ridden during the holiday or non-holidays?
@@ -70,7 +70,6 @@ Non-holidays accounted for 98.52% of total bike share for the given period with 
 ### Are more bikes shared during the weekday or weekend?
 Rides on weekends account  for a quarter (4,857,756 rides) of the total rideshare.
 these shows that bikes are shared mostly for work activities.
-
 
 
 ## Recommendation 
