@@ -80,6 +80,7 @@ these shows that bikes are shared mostly for work activities.
 - Better financial planning can be done around off seasons and period of bad weather conditions where low bike shares are recorded.
 
 
+![image](https://github.com/DapoAdeola/London-Bike-share-Analysis/assets/130672823/213da41f-7160-477f-b659-08b1c2b44089)
 
 
 
